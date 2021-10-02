@@ -26,5 +26,4 @@ public class ParallelStreamsBenchmark {
 	public void tearDown() {
 		System.gc();
 	}
-
 }
